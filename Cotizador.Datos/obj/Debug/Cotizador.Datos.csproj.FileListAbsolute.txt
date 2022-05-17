@@ -1,0 +1,17 @@
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\bin\Debug\Cotizador.Datos.dll.config
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\bin\Debug\Cotizador.Datos.dll
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\bin\Debug\Cotizador.Datos.pdb
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\bin\Debug\Cotizador.Dominio.dll
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\bin\Debug\EntityFramework.dll
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\bin\Debug\Cotizador.Dominio.pdb
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\bin\Debug\EntityFramework.xml
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\obj\Debug\Cotizador.Datos.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\obj\Debug\Cotizador.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\obj\Debug\Cotizador.Datos.csproj.CopyComplete
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\obj\Debug\Cotizador.Datos.dll
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\obj\Debug\Cotizador.Datos.pdb
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\obj\Debug\Cotizador.Datos.Migrations.CreacionDB.resources
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\obj\Debug\Cotizador.Datos.csproj.GenerateResource.cache
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Datos\obj\Debug\Cotizador.Datos.Migrations.DBv2.resources

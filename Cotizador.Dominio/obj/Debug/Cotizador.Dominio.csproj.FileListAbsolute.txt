@@ -1,0 +1,6 @@
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Dominio\bin\Debug\Cotizador.Dominio.dll
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Dominio\bin\Debug\Cotizador.Dominio.pdb
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Dominio\obj\Debug\Cotizador.Dominio.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Dominio\obj\Debug\Cotizador.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Dominio\obj\Debug\Cotizador.Dominio.dll
+C:\Users\Agustin\source\repos\Cotizador.Dominio\Cotizador.Dominio\obj\Debug\Cotizador.Dominio.pdb
